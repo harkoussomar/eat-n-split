@@ -1,6 +1,6 @@
-# Split Bill Manager
+# eat-n-split
 
-Split Bill Manager is a React application designed to simplify the process of managing expenses among friends. It provides features to add friends, track their balances, and easily split bills.
+eat-n-split is a React application designed to simplify the process of managing expenses among friends. It provides features to add friends, track their balances, and easily split bills.
 
 ## Features
 - Friend Management: Add, remove, and view friends along with their current balances.
